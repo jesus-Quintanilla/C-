@@ -205,7 +205,7 @@ public:
 
 
 private:
-	const int DEFAULT = 5;
+	const int DEFAULT = 4;
 	int currentStackSize = DEFAULT;
 	Employee *stack;
 	int logicalSize;
